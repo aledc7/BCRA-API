@@ -145,8 +145,15 @@ Documentación Oficial de la API:
 http://estadisticasbcra.com/api/documentacion
 
 
+###### Si se presentara el caso de que el código no funcióne, será necesario instalar esta extensión de Google Chrome:
 
--[x] Ale DC
+https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi/related
+
+
+
+
+
+- [x] Ale DC
 
 
 
