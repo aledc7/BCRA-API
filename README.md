@@ -14,7 +14,7 @@ http://estadisticasbcra.com/api/registracion
 
 
 2 - una vez registrados, la página del BCRA nos dará un token válido por un año desde la fecha de registro. 
-Pasado el año será necesario registrar otro.
+Pasado el año será necesario registrar otro. El token está limitado a 100 consultas diarias.
 
 3- Utilizando Ajax co  Jquery, debemos incluir un Header de autorización con nuestro token, esto debe setearse antes de realizar el llamado, por lo que se utilizará el parámetro **beforeSend**   
 
