@@ -25,7 +25,7 @@ A continuación se muestra el código completo funcionando en un archivo .html
 __NOTA:__
 (por razones de seguridad, he modificado mi token, ya que solo se permiten un maximo de 100 consultas al día, por lo que no quiero que me usen mis consultas... pueden generarse su propio token y reemplazarlo en el código.
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
