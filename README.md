@@ -1,6 +1,8 @@
 # BCRA-API
-### En este documento mostraré como consumir la API del Banco Central de la Republica Argentina con Ajax empleando jQuery.
-###### Esto puede ser muy útil para obtener la cotización Oficial del dolar del día, y varias consultas mas que se mencionaran.
+[<img src="https://github.com/aledc7/PHP-Certification/blob/master/aledc-logo.png?raw=true">](https://aledc.com)
+
+En este documento mostraré como consumir la API del Banco Central de la Republica Argentina con Ajax empleando jQuery.
+Esto puede ser muy útil para obtener la cotización Oficial del dolar del día, y varias consultas mas que se mencionaran.
 
 - [x] Ale Dc
 - [x] jQuery
