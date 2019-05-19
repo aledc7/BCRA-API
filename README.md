@@ -106,7 +106,7 @@ __NOTA:__
 
 #### A continuación se detallan las consultas que la API tiene disponibles:
 
-```
+```js
 http://api.estadisticasbcra.com/milestones : eventos relevantes (presidencia, ministros de economía, presidentes del BCRA, cepo al dólar)
 http://api.estadisticasbcra.com/base : base monetaria
 http://api.estadisticasbcra.com/base_usd: base monetaria dividida USD
