@@ -1,8 +1,13 @@
 # BCRA-API
 
-### DEPRECATED
+### ADVERTENCIA
 
-Debido a que el Banco Central ha dado de baja este servicio, esta API ya no está disponible para su uso :(
+Debido a que el Banco Central hace un tiempo interrumpió el funcionamiento de esta API sin previo aviso, si va a usarla para fines comerciales, ten presente que es un servicio inestable, y puede que vuelvan a interrumpirlo.   
+Al dia de la fecha (Febrero 2020)  volvó a funcionar la API tras estar varios meses caída.   
+
+Para fines comerciales mi recomendación es usar los WEB Services que proporciona AFIP en Argentina.   
+
+Saludos colegas.   
 
 
 [![aledc.com](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/aledc.com.svg)](https://aledc.com)
